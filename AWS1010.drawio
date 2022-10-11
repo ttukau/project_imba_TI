@@ -1,6 +1,6 @@
-<mxfile modified="2022-10-11T04:50:19.657Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="gjq9RW6miv9FG3PK-Jzv" version="20.4.0" type="github">
+<mxfile modified="2022-10-11T05:24:56.431Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Nh_UtSd43UqB2TTNzYtp" version="20.4.0" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1022" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1703" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -228,6 +228,9 @@
         </mxCell>
         <mxCell id="t9HsFqnL-FavxskQqKB--2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.step_functions;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="GzttGRGBfrO-tsGl2VA5-58">
           <mxGeometry x="401" y="190" width="69" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t9HsFqnL-FavxskQqKB--13" value="Amazon SNS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.sns;" vertex="1" parent="GzttGRGBfrO-tsGl2VA5-58">
+          <mxGeometry x="530" y="647.5" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GzttGRGBfrO-tsGl2VA5-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeWidth=2;strokeColor=#808080;" parent="1" source="GzttGRGBfrO-tsGl2VA5-17" edge="1">
           <mxGeometry relative="1" as="geometry">
